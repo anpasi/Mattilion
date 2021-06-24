@@ -1,7 +1,7 @@
 
 The tests are:
 
-Test 1, String comparator: com.exercises.MatilionStringUtils
+Test 1, String comparator: com.exercises.LocalStringUtils
 
 There is a test for this class LocalStringUtilsTest
 
